@@ -12,6 +12,8 @@
 
 [WebRTC 1.0](https://www.w3.org/TR/webrtc/) webrtc标准
 
+
+
 ## 文档/书籍
 
 你可以在下面目录找到更多的文档与书籍：	
@@ -19,6 +21,8 @@
 [/doc](/doc)
 
 [/book](/book)
+
+
 
 ## Build
 
@@ -31,10 +35,16 @@
 ## 博客/视频
 
 [基于Webrtc的跨平台实时语音通信解决方案](http://edu.csdn.net/course/detail/320)
+
 [RTC.Blacker](http://www.cnblogs.com/lingyunhu/)
+
 [Temo](http://blog.csdn.net/temotemo/article/list/1)
+
 [CNWebrtc](http://chinawebrtc.org/)
+
 [Getting Started with WebRTC](http://www.html5rocks.com/en/tutorials/webrtc/basics/#toc-where)
+
+
 
 ## 社区
 
@@ -42,13 +52,16 @@
 
 [Webrtc World](http://www.webrtcworld.com/)
 
+
+
 ## 测试
 
 [戴维营网上room测试](http://apprtc.diveinedu.com:8080/) 	戴维营教育AppRTC
 
 [**shout**](https://github.com/erming/shout)
 
-[Chrome Debug](chrome://webrtc-internals/)
+Chrome Debug : chrome://webrtc-internals/  在地址栏输入即可。
+
 
 
 ## Stun 服务器列表
@@ -59,7 +72,7 @@ some of the list:
 
 {url:'stun:stun01.sipphone.com'},{url:'stun:stun.ekiga.net'},{url:'stun:stun.fwdnet.net'},{url:'stun:stun.ideasip.com'},{url:'stun:stun.iptel.org'},{url:'stun:stun.rixtelecom.se'},{url:'stun:stun.schlund.de'},{url:'stun:stun.l.google.com:19302'},{url:'stun:stun1.l.google.com:19302'}{url:'stun:stun2.l.google.com:19302'},{url:'stun:stun3.l.google.com:19302'},{url:'stun:stun4.l.google.com:19302'},{url:'stun:stunserver.org'},{url:'stun:stun.softjoys.com'},{url:'stun:stun.voiparound.com'},{url:'stun:stun.voipbuster.com'},{url:'stun:stun.voipstunt.com'},{url:'stun:stun.voxgratia.org'},{url:'stun:stun.xten.com'},
 
-你可以在在 [这里](https://webrtc.github.io/samples/src/content/peerconnection/trickle-ice/)测试上面Stun服务器的是否正常。
+你可以在  [**这里**](https://webrtc.github.io/samples/src/content/peerconnection/trickle-ice/)    测试上面Stun服务器的是否正常。
 
 
 
@@ -85,12 +98,14 @@ some of the list:
 
 [OneApp](https://github.com/dtp5/OneApp)
 
-# 方案
+
+
+## 方案
 
 [simp5](https://www.doubango.org/sipml5/) World's first HTML5 SIP client
 
 
-# 其他支持库
+## 其他支持库
 
 if you want to make an IM app, you may have try these libraries:
 

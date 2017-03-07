@@ -1,5 +1,7 @@
 ## WebRtcExplore
+
 Study WebRtc
+
 
 ## Standard
 
@@ -9,6 +11,8 @@ Study WebRtc
 
 [WebRTC 1.0](https://www.w3.org/TR/webrtc/)
 
+
+
 ## Doc/Book
 
 you can find many doc/book on directior:	
@@ -16,6 +20,8 @@ you can find many doc/book on directior:
 [/doc](/doc)
 
 [/book](/book)
+
+
 
 ## Build
 
@@ -28,9 +34,13 @@ you can find many doc/book on directior:
 ## Blog/Video
 
 [基于Webrtc的跨平台实时语音通信解决方案](http://edu.csdn.net/course/detail/320)
+
 [RTC.Blacker](http://www.cnblogs.com/lingyunhu/)
+
 [Temo](http://blog.csdn.net/temotemo/article/list/1)
+
 [CNWebrtc](http://chinawebrtc.org/)
+
 [Getting Started with WebRTC](http://www.html5rocks.com/en/tutorials/webrtc/basics/#toc-where)
 
 ## Community
@@ -39,15 +49,15 @@ you can find many doc/book on directior:
 
 [Webrtc World](http://www.webrtcworld.com/)
 
+
+
 ## Test Online/APP
 
 [戴维营网上room测试](http://apprtc.diveinedu.com:8080/) 	戴维营教育AppRTC
 
 [**shout**](https://github.com/erming/shout)
 
-[Chrome Debug](chrome://webrtc-internals/)
-
-[[STUN Server](https://gist.github.com/yetithefoot/7592580)]
+Chrome Debug : "chrome://webrtc-internals/" 
 
 
 
@@ -85,9 +95,13 @@ you can check the stun server is available [here](https://webrtc.github.io/sampl
 
 [OneApp](https://github.com/dtp5/OneApp)
 
+
+
 ## Solution
 
+
 [simp5](https://www.doubango.org/sipml5/) World's first HTML5 SIP client
+
 
 
 ## Other support lib
