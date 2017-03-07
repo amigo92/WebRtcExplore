@@ -1,20 +1,17 @@
-[En README HERE]() 
+## WebRtcExplore
+Study WebRtc
 
-## WebRtc 探索
+## Standard
 
-学习webrtc
-
-## 标准
-
-[Webrtc Official](https://webrtc.org/)  官网
+[Webrtc Official](https://webrtc.org/) 
 
 [WebRTC API](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API)	Mozilla webrtc 
 
-[WebRTC 1.0](https://www.w3.org/TR/webrtc/) webrtc标准
+[WebRTC 1.0](https://www.w3.org/TR/webrtc/)
 
-## 文档/书籍
+## Doc/Book
 
-你可以在下面目录找到更多的文档与书籍：	
+you can find many doc/book on directior:	
 
 [/doc](/doc)
 
@@ -28,7 +25,7 @@
 
 [webrtc-ios](https://github.com/kapejod/webrtc-ios)
 
-## 博客/视频
+## Blog/Video
 
 [基于Webrtc的跨平台实时语音通信解决方案](http://edu.csdn.net/course/detail/320)
 [RTC.Blacker](http://www.cnblogs.com/lingyunhu/)
@@ -36,13 +33,13 @@
 [CNWebrtc](http://chinawebrtc.org/)
 [Getting Started with WebRTC](http://www.html5rocks.com/en/tutorials/webrtc/basics/#toc-where)
 
-## 社区
+## Community
 
 [WebRTC中文社区](http://www.webrtcbbs.com/)
 
 [Webrtc World](http://www.webrtcworld.com/)
 
-## 测试
+## Test Online/APP
 
 [戴维营网上room测试](http://apprtc.diveinedu.com:8080/) 	戴维营教育AppRTC
 
@@ -50,24 +47,27 @@
 
 [Chrome Debug](chrome://webrtc-internals/)
 
+[[STUN Server](https://gist.github.com/yetithefoot/7592580)]
 
-## Stun 服务器列表
 
-来自 [yetithefoot](https://gist.github.com/yetithefoot/7592580)的收集，感谢！!
+
+## Stun Server List
+
+list from [yetithefoot](https://gist.github.com/yetithefoot/7592580),thanks!
 
 some of the list:
 
 {url:'stun:stun01.sipphone.com'},{url:'stun:stun.ekiga.net'},{url:'stun:stun.fwdnet.net'},{url:'stun:stun.ideasip.com'},{url:'stun:stun.iptel.org'},{url:'stun:stun.rixtelecom.se'},{url:'stun:stun.schlund.de'},{url:'stun:stun.l.google.com:19302'},{url:'stun:stun1.l.google.com:19302'}{url:'stun:stun2.l.google.com:19302'},{url:'stun:stun3.l.google.com:19302'},{url:'stun:stun4.l.google.com:19302'},{url:'stun:stunserver.org'},{url:'stun:stun.softjoys.com'},{url:'stun:stun.voiparound.com'},{url:'stun:stun.voipbuster.com'},{url:'stun:stun.voipstunt.com'},{url:'stun:stun.voxgratia.org'},{url:'stun:stun.xten.com'},
 
-你可以在在 [这里](https://webrtc.github.io/samples/src/content/peerconnection/trickle-ice/)测试上面Stun服务器的是否正常。
+you can check the stun server is available [here](https://webrtc.github.io/samples/src/content/peerconnection/trickle-ice/)
 
 
 
-## 实例
+## Demo
 
-[JSIMWebrtcOverMQTT](https://github.com/wenghengcong/JSIMWebrtcOverMQTT)  自己写的一个demo，实现了语音通话，可直接运行。
+[JSIMWebrtcOverMQTT](https://github.com/wenghengcong/JSIMWebrtcOverMQTT)  my other repo，can run on the iOS
 
-[AppRTCDemo](https://github.com/hiroeorz/AppRTCDemo) 
+[AppRTCDemo](https://github.com/hiroeorz/AppRTCDemo)] 
 
 [apprtc-ios](https://github.com/ISBX/apprtc-ios)
 
@@ -85,12 +85,12 @@ some of the list:
 
 [OneApp](https://github.com/dtp5/OneApp)
 
-# 方案
+## Solution
 
 [simp5](https://www.doubango.org/sipml5/) World's first HTML5 SIP client
 
 
-# 其他支持库
+## Other support lib
 
 if you want to make an IM app, you may have try these libraries:
 
